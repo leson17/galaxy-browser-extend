@@ -1,0 +1,9 @@
+node_modules*
+dist
+*.json
+.gitignore
+*.md
+*.log
+*.lock
+
+src/shims-vue.d.ts
